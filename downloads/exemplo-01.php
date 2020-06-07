@@ -16,4 +16,4 @@ fclose($file); //fechando o arquivo
 
 ?>
 
-<img src="<?=$basename?>">
+<img src="<?=$basename?>"> 
